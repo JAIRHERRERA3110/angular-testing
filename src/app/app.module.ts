@@ -12,7 +12,7 @@ import { GreetDemoComponent } from './greet-demo/greet-demo.component';
   declarations: [
     AppComponent,
 
-    ComputeDemoComponent
+    ComputeDemoComponent,
 
     GreetDemoComponent
 
