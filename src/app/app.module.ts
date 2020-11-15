@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { ComputeDemoComponent } from './compute-demo/compute-demo.component';
 
 import { GreetDemoComponent } from './greet-demo/greet-demo.component';
+import { CurrienciesDemoComponent } from './curriencies-demo/curriencies-demo.component';
 
 
 @NgModule({
@@ -14,7 +15,9 @@ import { GreetDemoComponent } from './greet-demo/greet-demo.component';
 
     ComputeDemoComponent,
 
-    GreetDemoComponent
+    GreetDemoComponent,
+
+    CurrienciesDemoComponent
 
   ],
   imports: [
